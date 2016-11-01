@@ -1,7 +1,7 @@
 # Configuration for Jenkins-CI with Zend Framework 3
 
 ## Introduction
-This is a configuration boilerplate based on jenkins-php.org for projects using
+This is a configuration boilerplate based on the [Template for Jenkins Jobs for PHP Projects](http://jenkins-php.org/) for projects using
 the Zend Framework 3.
 
 ## Installation
@@ -9,7 +9,7 @@ the Zend Framework 3.
 $ git clone {this-repo}
 ```
 
-Copy the files and the build folder to your project.
+Copy the files and the build folder to your project root.
 
 ## required Tools
-* composer
+* [Composer](http://getcomposer.org/)
