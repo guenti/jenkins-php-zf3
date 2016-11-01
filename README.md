@@ -1,4 +1,4 @@
-# Configuration for Jenkins-CI with Zend Framework 3
+# Jenkins-CI config for projects using Zend Framework 3
 
 ## Introduction
 This is a configuration boilerplate based on the [Template for Jenkins Jobs for PHP Projects](http://jenkins-php.org/) for projects using
