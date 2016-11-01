@@ -11,3 +11,5 @@ $ git clone {this-repo}
 
 Copy the files and the build folder to your project.
 
+## required Tools
+**** composer
