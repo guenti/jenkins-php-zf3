@@ -13,3 +13,4 @@ Copy the files and the build folder to your project root.
 
 ## required Tools
 * [Composer](http://getcomposer.org/)
+* and all the stuff from the [Template for Jenkins Jobs for PHP Projects](http://jenkins-php.org/)
